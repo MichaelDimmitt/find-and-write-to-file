@@ -1,7 +1,7 @@
 # find-and-write-to-file
 find the the text string and write to file function in bash
 
-https://stackoverflow.com/questions/22159044/how-to-append-a-string-at-end-of-a-specific-line-in-a-file-in-bash
+[awk solution](https://stackoverflow.com/questions/22159044/how-to-append-a-string-at-end-of-a-specific-line-in-a-file-in-bash)
 
 # why
 Sometimes it is useful to programatically add code to a specific spot of a text file.
