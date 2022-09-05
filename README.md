@@ -22,7 +22,9 @@ prompting [Yn] 📚
 1) replace, text with values 📚
 2) replace all 📚
 
-# future work
-1) add test suite 📚
-
 This can be overridden by passing to the script --force or --no-duplicate-entries
+
+# Running tests
+1) clone the project
+2) brew install bats-core
+3) bats test/*
